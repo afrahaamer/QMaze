@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/johnturner4004/readme-generator.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/johnturner4004/readme-generator.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/readme-generator.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/johnturner4004/readme-generator.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/johnturner4004/readme-generator.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/hanzili/QMaze?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/hanzili/QMaze?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/hanzili/QMaze?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/hanzili/QMaze?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/hanzili/QMaze?style=for-the-badge)
 
 **WOMANIUM HACKATHON 2022**
 
@@ -80,6 +80,9 @@ eMail: [_gusvazra@student.gu.se_](mailto:gusvazra@student.gu.se)
 Discord ID: Shan#4498
 
 
+GitHub ID: GitHub ID: Shanicesj 
+
+
 eMail: [_thebutterflymaze@gmail.com_](mailto:thebutterflymaze@gmail.com)
 
 ------------
@@ -121,7 +124,21 @@ In the Quantum world, your worst enemy is Noise. When the qubits interact with t
 
 
 # How to Install
-
+Python environment is already setted up from [godot-python](https://github.com/touilleMan/godot-python)
+and [Qiskit library](https://github.com/Qiskit) is already installed for windows-64
+Install qiskit：
+1. ```cd addons/pythonscript/(choose_operating_system)```
+2. For windows:
+    ```
+    python.exe -m ensurepip
+    python.exe -m pip install qiskit
+    ```
+    For MAC:
+    ```
+    cd ox-64/bin
+    python3 -m ensurepip
+    python3 -m pip install qiskit
+    ```
 
 # Challenges Faced
 
@@ -136,8 +153,7 @@ Characterizing the player and conceptualizing the quantum world in a way that is
 
 - Qiskit
 - Godot
-- LaTex
-- GitHub
+- Python
 
 
 # Future Plans
